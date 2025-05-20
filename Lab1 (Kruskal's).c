@@ -1,3 +1,6 @@
+//Design and implement C/C++ program to find Minimum Cost Spanning Tree of a given
+//connected undirected graph using Kruskal’s algorithm.
+
 #include <stdio.h>
 
 int ne = 1, min_cost = 0;
