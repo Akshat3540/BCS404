@@ -52,19 +52,19 @@ void main() {
     printf("\nMinimum cost = %d\n", min_cost);
 }
 
-Output:
-Enter the number of vertices: 6
-Enter the cost matrix:
-999 3 999 999 6 5
-3 999 1 999 999 4
-999 1 999 6 999 4
-999 999 6 999 8 5
-6 999 999 8 999 2
-5 4 4 5 2 999
-The edges of spanning tree are
-Edge 1
-(2->3)=1
-Edge 2 (5->6)=2
-Edge 3 (1->2)=3
-Edge 4 (2->6)=4 Edge 5 (4->6)=5
-Minimum cost=15
+// Output:
+// Enter the number of vertices: 6
+// Enter the cost matrix:
+// 999 3 999 999 6 5
+// 3 999 1 999 999 4
+// 999 1 999 6 999 4
+// 999 999 6 999 8 5
+// 6 999 999 8 999 2
+// 5 4 4 5 2 999
+// The edges of spanning tree are
+// Edge 1
+// (2->3)=1
+// Edge 2 (5->6)=2
+// Edge 3 (1->2)=3
+// Edge 4 (2->6)=4 Edge 5 (4->6)=5
+// Minimum cost=15
